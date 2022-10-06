@@ -1,0 +1,25 @@
+.body {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+}
+
+.contenedor {
+  max-width: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.form {
+  width: 100%;
+  height: 100vh;
+}
+
+@media screen {
+}
